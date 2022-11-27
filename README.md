@@ -15,11 +15,11 @@ El juego termina en empate cuando el tablero está completo y no hay ganadores.
 
 Ejemplo de dibujo de tablero vacío:
 
-|_|_|_|
+|_ |_ |_ |
 
-|_|_|_|
+|_ |_ |_ |
 
-|_|_|_|
+|_ |_ |_ |
 
 Ejemplo de dibujo en pantalla tablero completo: 
 
