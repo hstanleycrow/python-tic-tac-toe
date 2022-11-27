@@ -57,6 +57,7 @@ def run():
 
 def startMessage():
     print("Bienvenido a Tic Tac Toe (TA-TE-TI)")
+    print("Autor: Harold Rivas\n")
 
 
 def isValidToken(player1Token):
